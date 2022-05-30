@@ -1,4 +1,4 @@
-# CGR dashboard
+# How do extended benefits affect unemployment duration? A regression discontinuity approach
 **Author:** Yoseph Ayala
 
 ---
